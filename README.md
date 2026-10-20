@@ -20,8 +20,7 @@ prompted. Existing account permissions and plan limits apply.
 
 [Minerva MCP documentation](https://docs.minerva.io/minerva-data-mcp)
 
-## Review status
+## Status
 
-Private draft for engineering and compliance review. Public release and an
-open-source license have not been approved. This plugin is not listed in the
-Cursor Marketplace.
+Public connector configuration. An open-source license for marketplace
+distribution is pending review. This plugin is not listed in the Cursor Marketplace.
