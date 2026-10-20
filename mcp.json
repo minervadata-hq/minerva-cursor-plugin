@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "minerva": {
+      "url": "https://api.minerva.io/mcp"
+    }
+  }
+}

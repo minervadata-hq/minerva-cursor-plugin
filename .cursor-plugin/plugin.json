@@ -1,0 +1,10 @@
+{
+  "name": "minerva",
+  "version": "0.1.0",
+  "description": "Connect Cursor to Minerva's hosted MCP service.",
+  "author": {
+    "name": "Minerva"
+  },
+  "homepage": "https://www.minerva.io",
+  "logo": "assets/logo.png"
+}
